@@ -6,8 +6,8 @@ We run Original Prusa FFF (filament) printers, each currently dedicated to a spe
 
 ### Prusa Slicer
 
-**Used for:** Slicing models for every printer above, selecting the correct printer/nozzle/filament profile, and sending finished jobs to the shop's printers over Prusa Connect.
-**Access:** Free — [download for Windows/macOS/Linux](https://www.prusa3d.com/page/prusaslicer_424/).
+**Used for:** Slicing models for every printer at Alt-Makers, selecting the correct printer/nozzle/filament profile, and sending finished jobs to the shop's printers over Prusa Connect.
+**Access:** Free — [download for Windows/macOS/Linux](https://www.prusa3d.com/page/prusaslicer_424/). 
 
 **Getting your file in**
 
@@ -27,7 +27,7 @@ We only stock **Prusament** filament, specifically because PrusaSlicer ships wit
 
 **Connecting to a printer over Prusa Connect**
 
-If the printer is on you can find it in Prusa Connect.  Do not start your print from home.  Even though you can see through the camera that the bed is clear, you are required to come in and go through the proper start proceedure to make sure that there is enough material loaded in the printer to complete your print and that everything is properly setup.  Starting your print completely remotely has too many risks that can cost you and/or the space money.
+Prusa Connect is the online Team platform that allows you to send files from Prusa Slicer directly to the printer.  In order to use Prusa Connect you need to [create an account](https://account.prusa3d.com/registration/?next=/o/authorize/%3Fresponse_type%3Dcode%26client_id%3DMRHTlZhZqkNrrQ6FUPtjyusAz8nc59ErHXP8XkS4%26code_challenge_method%3DS256%26code_challenge%3DA2O9kp_OBTmjtB5edzgJWueeOOzwY2DP6zk8dtBWQOw%26redirect_uri%3Dhttps%253A%252F%252Fconnect.prusa3d.com%252Flogin%252Fauth-callback%26scope%3Dbasic_info%2Buser_operations%2Bemail_lists%2Bopenid%2Bconnect%2Bemployee) with the same email as your Alt-Makers portal account.  After training we will send you an invite to join the Alt-Makers team.  Once you are a member of the team you can find our printers in Prusa Connect.  Do not start your print from home.  Even though you can see through the camera that the bed is clear, you are required to come in and go through the proper start proceedure to make sure that there is enough material loaded in the printer to complete your print and that everything is properly setup.  Starting your print completely remotely has too many risks that can cost you and/or the space money.
 
 1. In Prusa Slicer, go to **File → Printer Settings**, and make sure the base printer profile matches the machine you're using. You can keep the standard System presets. You can make changes but please make sure you understand the changes you make before you assume that the printer will just run smoothly with whatever setting.
 2. Under **Printers → Add/Remove printer**, go through the configuration wizard and choose _Prusa CORE One & One+ & One+ (Gen2) HF0.4 mm nozzle_ and _Original Prusa XL - 5T Input Shaper 0.4 mm nozzle_
