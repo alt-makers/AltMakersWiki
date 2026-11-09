@@ -18,7 +18,7 @@ Each category page below covers the same set of sections, in this order:
 - [CNC](cnc.md)
 - [Laser Cutters](lasercutters.md)
 - [3D Printers](3d-printers.md)
-- [Woodworking & Carpentry](woodworking.md)
+- [Woodworking & Carpentry](woodworking/index.md)
 - [Sewing](sewing.md)
 - [Electronics](electronics.md)
 
