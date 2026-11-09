@@ -50,6 +50,11 @@ Every tool page shows one of these two levels near the top.
     **[Holzmann Belt / Disc Sander](belt-disc-sander.md)**<br>
     Shaping and sanding edges · *Woodworking 101 Required*
 
+-   [![VEVOR Bench Grinder](../img/woodworking/bench-grinder-card.jpg)](bench-grinder.md)
+
+    **[Polishing / Bench Grinder](bench-grinder.md)**<br>
+    Sharpening, deburring, polishing · *Woodworking 101 Required*
+
 </div>
 
 ## Hand-held power tools
@@ -105,11 +110,6 @@ Every tool page shows one of these two levels near the top.
 
     **[Makita Biscuit Joiner](biscuit-joiner.md)**<br>
     Edge joints and alignment · *Woodworking 101 Required*
-
--   [![VEVOR Bench Grinder](../img/woodworking/bench-grinder-card.jpg)](bench-grinder.md)
-
-    **[Polishing / Bench Grinder](bench-grinder.md)**<br>
-    Sharpening, deburring, polishing · *Woodworking 101 Required*
 
 -   [![Makita Shop Vac](../img/woodworking/shop-vac-card.jpg)](shop-vac.md)
 

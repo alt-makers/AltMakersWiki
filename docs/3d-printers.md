@@ -206,6 +206,83 @@ In the 3D Print Dialogue, choose the following:
 
 - Youtube tutorials: Learn Autodesk Fusion in 30 Days https://www.youtube.com/watch?v=4G2E_DqQteM (great tutorials, you will understand everything that you need 99% of the time in the first 5 tutorials, but the other 25 are also great as you get more advanced)
 
+#### Connect Fusion to an AI assistant with MCP
+
+!!! Using an AI agent to create your 3D model is not an all knowing replacement for design knowledge and understanding of how our tools at the makerspace work!  Alt-Makers accepts no responsibility for failed 3D prints as a result of impossible designs created by AI.  Be especially careful when using the CNC!  You as the trained member are responsible for any toolpath that is run on our machine.  If an AI generated toolpath damages the machine the member running that toolpath is considered responsible and will be required to pay for any resultant damages.
+
+MCP (Model Context Protocol) lets an AI assistant use tools in another application. With Fusion's local MCP server, any assistant that supports MCP can inspect a design, help modify geometry, and export parts.
+
+This is an optional design workflow. It does not replace measuring your components, checking the model, or following the makerspace's printing procedures.
+
+!!! warning "Your design leaves your computer"
+    The Fusion MCP server runs locally, but anything it returns to a cloud-based AI assistant is processed by that provider. Only use designs you're allowed to share.
+
+**1. Enable the server in Fusion**
+
+1. Open Fusion and leave it running. The server only works while Fusion is open.
+2. Go to **Preferences → General → API**.
+3. Enable **Fusion MCP Server (runs locally on this device)**.
+4. Note the server address. The default is:
+
+```text
+http://127.0.0.1:27182/mcp
+```
+
+If you change the port in Fusion, use the same port in your AI application. This guide uses the **local Fusion MCP server**, not the separate cloud-based Fusion Data MCP service. See [Autodesk's setup instructions](https://help.autodesk.com/cloudhelp/ENU/ADSKMCP-FusionDesktopMcp/files/ADSKMCP_FusionDesktopMcp_connecting_to_the_fusion_mcp_server_html.html).
+
+**2. Add the server to your AI assistant**
+
+Any assistant or editor that supports MCP over **HTTP** (sometimes called "Streamable HTTP") can connect. In its MCP or connector settings, add a new server with:
+
+- **Name:** anything you like, for example `autodesk-fusion`
+- **Type / transport:** HTTP
+- **URL:** `http://127.0.0.1:27182/mcp`
+
+Examples for common tools:
+
+| Tool | How to add it |
+|---|---|
+| **Claude Desktop** | Settings → Connectors → Add → Browse connectors, search for **Autodesk Fusion** and install it |
+| **Claude Code** | `claude mcp add --transport http autodesk-fusion http://127.0.0.1:27182/mcp` |
+| **Codex CLI** | `codex mcp add autodesk-fusion --url http://127.0.0.1:27182/mcp` |
+| **Cursor** | Settings → Tools & MCP → Add Custom MCP, or edit `~/.cursor/mcp.json` (see below) |
+| **VS Code** | Command Palette → **MCP: Add Server** → HTTP, then enter the URL |
+
+Most tools that use a JSON config file (Cursor and many others) expect this format:
+
+```json
+{
+  "mcpServers": {
+    "autodesk-fusion": {
+      "url": "http://127.0.0.1:27182/mcp"
+    }
+  }
+}
+```
+
+VS Code uses a different format in `.vscode/mcp.json`. It ignores the block above without showing an error:
+
+```json
+{
+  "servers": {
+    "autodesk-fusion": {
+      "type": "http",
+      "url": "http://127.0.0.1:27182/mcp"
+    }
+  }
+}
+```
+
+If you add the server to a config file that already has other entries, merge it into the existing list instead of replacing the file.
+
+**3. Check the connection**
+
+Restart or reload your AI assistant, then look for the Fusion tools in its MCP or connector list. Ask it something simple, such as "What components are in my open Fusion design?"
+
+**Troubleshooting**
+
+If the tools can't connect, check that Fusion is running, the MCP server is enabled, and both applications use the same port. Then reload the AI assistant. See [Autodesk's troubleshooting guide](https://help.autodesk.com/cloudhelp/ENU/ADSKMCP-FusionDesktopMcp/files/ADSKMCP_FusionDesktopMcp_troubleshooting_html.html).
+
 ---
 
 ### SolidWorks

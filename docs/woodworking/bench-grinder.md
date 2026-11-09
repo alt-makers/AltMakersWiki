@@ -31,10 +31,10 @@
 ## How to use
 
 1. Clamp the grinder firmly to a bench, away from sawdust.
-1. Check the wheels for cracks and that the eye shields are in place.
-2. Stand to the side and switch on. Wait until it runs smoothly.
-3. Hold the work lightly against the front of the wheel and keep it moving.
-4. Switch off and let it stop on its own. Don't slow it down by pressing something against it.
+2. Check the wheels for cracks and that the eye shields are in place.
+3. Stand to the side and switch on. Wait until it runs smoothly.
+4. Hold the work lightly against the front of the wheel and keep it moving.
+5. Switch off and let it stop on its own. Don't slow it down by pressing something against it.
 
 ## Tips
 
