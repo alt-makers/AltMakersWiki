@@ -87,3 +87,24 @@
 .wiki-feedback__title { font-weight: 600; }
 .wiki-feedback__actions .md-button { margin: 0.3rem 0.4rem 0.3rem 0; }
 .wiki-feedback__hint { opacity: 0.75; }
+
+/* Tool card grid on section overview pages (e.g. woodworking/index.md) */
+.md-typeset .grid.cards.tool-cards > ul > li {
+  padding: 0.6rem;
+}
+.md-typeset .tool-cards img {
+  display: block;
+  width: 100%;
+  aspect-ratio: 4 / 3;
+  object-fit: cover;
+  border-radius: 4px;
+  margin-bottom: 0.5rem;
+}
+.md-typeset .tool-cards p { margin: 0.3em 0; }
+.md-typeset .grid.cards.tool-cards {
+  grid-template-columns: repeat(auto-fill, minmax(min(100%, 11rem), 1fr));
+}
+/* Hide the empty header row of "| | |" quick-facts tables */
+.md-typeset table:not([class]) thead:has(th:empty:first-child + th:empty:last-child) {
+  display: none;
+}
