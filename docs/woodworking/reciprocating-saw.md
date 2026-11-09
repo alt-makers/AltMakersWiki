@@ -4,7 +4,7 @@
 
 | | |
 |---|---|
-| **Access** | Induction |
+| **Access** | Woodworking 101 Required |
 | **PPE** | Safety glasses, hearing protection, work gloves are OK for this tool |
 | **Use it for** | Demolition, cutting through walls and studs, cutting pipes and reclaimed wood with nails in it, rough cuts where accuracy doesn't matter |
 | **Where** | In its Makita case under the workbench (photo below) |
@@ -19,7 +19,7 @@
 
 ## Rules
 
-- Induction by a shop lead before your first use.
+- Only after completing Woodworking 101.
 - Use the right blade: wood blades (big teeth) for wood, metal blades (fine teeth) for metal and wood with nails.
 
 ## How to use

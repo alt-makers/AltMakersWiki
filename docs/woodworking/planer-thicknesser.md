@@ -4,7 +4,7 @@
 
 | | |
 |---|---|
-| **Access** | Sign-off required |
+| **Access** | Woodworking 101 Required |
 | **PPE** | Safety glasses, hearing protection (it's loud: around 96 dB). No gloves. |
 | **Use it for** | Flattening a face and squaring an edge (jointing), then bringing boards to an even thickness (thicknessing) |
 | **Product page** | [holzmannshop24.de](https://www.holzmannshop24.de/p/holzmann-hobelmaschine-hob260abs-230v-mit-integrierter-absaugung-lagernd) |
@@ -22,7 +22,7 @@
 
 ## Rules
 
-- Only after sign-off by a shop lead.
+- Only after completing Woodworking 101.
 - **Clean, metal-free wood only.** Check reclaimed wood with a magnet and remove all nails, screws and staples. No painted, glued or dirty wood: paint, glue and grit ruin the knives instantly.
 - No plywood, MDF, OSB or other sheet goods.
 - Dust extraction on for every pass. Empty the chip bag when it's full.

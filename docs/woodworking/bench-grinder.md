@@ -4,7 +4,7 @@
 
 | | |
 |---|---|
-| **Access** | Induction |
+| **Access** | Woodworking 101 Required |
 | **PPE** | Safety glasses (face shield recommended). No gloves. |
 | **Where** | Stored on the wall shelf. It isn't bolted down: clamp it to a bench wherever you need it. |
 | **Use it for** | Deburring and touching up metal parts, polishing, small detail work with the flexible shaft |
@@ -22,7 +22,7 @@
 
 ## Rules
 
-- Induction by a shop lead before your first use.
+- Only after completing Woodworking 101.
 - Report any wheel that's chipped, cracked or wobbles.
 - **Clamp it to the bench** before you switch it on. An unclamped grinder walks and can tip over while running.
 - Set it up in a spot cleared of sawdust, away from the wood area's dust.

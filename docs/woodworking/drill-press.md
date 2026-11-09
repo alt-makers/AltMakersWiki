@@ -4,7 +4,7 @@
 
 | | |
 |---|---|
-| **Access** | Induction |
+| **Access** | Woodworking 101 Required |
 | **PPE** | Safety glasses. No gloves. Tie back long hair. |
 | **Use it for** | Holes that are exactly square to the surface, repeat holes to the same depth, Forstner bits and hole saws |
 | **Product page** | [holzmannshop24.de, SB13B16VN](https://www.holzmannshop24.de/p/holzmann-staenderbohrmaschine-sb13b16vn_230v-zentrierlaser-oder-led-arbeitslicht-oder-variable-drehzahl) |
@@ -21,7 +21,7 @@
 
 ## Rules
 
-- Induction by a shop lead before your first use.
+- Only after completing Woodworking 101.
 - Put a piece of scrap wood under your workpiece so you don't drill into the table.
 - Clean chips off the table and put the bits back when you're done.
 

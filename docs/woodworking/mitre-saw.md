@@ -4,7 +4,7 @@
 
 | | |
 |---|---|
-| **Access** | Sign-off required |
+| **Access** | Woodworking 101 Required |
 | **PPE** | Safety glasses, hearing protection. No gloves. |
 | **Use it for** | Crosscutting boards to length, mitres (angled cuts across the board) and bevels (tilted blade) |
 | **Product page** | [metabo.com, KGS 254 M](https://www.metabo.com/com/en/tools/sawing/mitre-saws/kgs-254-m-mitre-saw/613254000). Our saw may be an older version. |
@@ -22,7 +22,7 @@
 
 ## Rules
 
-- Only after sign-off by a shop lead.
+- Only after completing Woodworking 101.
 - Wood and wood-based materials only. No metal.
 - No pieces shorter than about 15 cm.
 - Dust extraction on.

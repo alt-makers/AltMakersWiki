@@ -4,7 +4,7 @@
 
 | | |
 |---|---|
-| **Access** | Sign-off required |
+| **Access** | Woodworking 101 Required |
 | **PPE** | Safety glasses, hearing protection. No gloves. |
 | **Use it for** | Rough cuts in boards and sheets that are too big for the stationary saws |
 
@@ -23,7 +23,7 @@ For long, straight cuts in sheet material, the [track saw](track-saw.md) is more
 
 ## Rules
 
-- Only after sign-off by a shop lead.
+- Only after completing Woodworking 101.
 - Wood and wood-based materials only.
 - Unplug before changing the blade.
 

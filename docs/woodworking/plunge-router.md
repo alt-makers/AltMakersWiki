@@ -4,7 +4,7 @@
 
 | | |
 |---|---|
-| **Access** | Sign-off required |
+| **Access** | Woodworking 101 Required |
 | **PPE** | Safety glasses, hearing protection, dust mask. No gloves. |
 | **Use it for** | Grooves and dados, mortises, edge profiles, copying a shape from a template |
 
@@ -20,7 +20,7 @@
 
 ## Rules
 
-- Only after sign-off by a shop lead.
+- Only after completing Woodworking 101.
 - Unplug before changing bits.
 - Use the bits from the shop's router bit case. Report damaged or burnt bits.
 - Connect the dust extractor when possible.

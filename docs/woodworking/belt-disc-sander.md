@@ -4,7 +4,7 @@
 
 | | |
 |---|---|
-| **Access** | Induction |
+| **Access** | Woodworking 101 Required |
 | **PPE** | Safety glasses, dust mask (FFP2) |
 | **Use it for** | Sanding edges and end grain, shaping curves, fine-tuning angles |
 | **Product page** | [holzmannshop24.de, BT203-914](https://www.holzmannshop24.de/p/holzmann-bandschleifer-tellerschleifmaschine-bt203-914-230v-alutisch) |
@@ -18,7 +18,7 @@
 
 ## Rules
 
-- Induction by a shop lead before your first use.
+- Only after completing Woodworking 101.
 - Dust extraction on.
 - Report worn or torn belts and discs.
 
