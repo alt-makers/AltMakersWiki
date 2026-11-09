@@ -1,13 +1,13 @@
-# Makita Reciprocating Saw (JR3051TK)
+# Makita Reciprocating Saw
 
-!!! note "Photo coming soon"
+![Makita AVT reciprocating saw in its case](../img/woodworking/reciprocating-saw.jpg){ width="360" }
 
 | | |
 |---|---|
 | **Access** | Induction |
 | **PPE** | Safety glasses, hearing protection, work gloves are OK for this tool |
 | **Use it for** | Demolition, cutting through walls and studs, cutting pipes and reclaimed wood with nails in it, rough cuts where accuracy doesn't matter |
-| **Product page** | [bauhaus.info](https://www.bauhaus.info/saebelsaegen/makita-saebelsaege-jr3051tk/p/27686199) |
+| **Where** | In its Makita case under the workbench (photo below) |
 
 ## Safety
 
@@ -34,9 +34,8 @@
 - For a cleaner cut, use a longer blade than you think you need. A short blade that just clears the material bends and wanders.
 - For precise cuts, use the [band saw](band-saw.md), [circular saw](circular-saw.md) or [track saw](track-saw.md) instead.
 
-## Specs
+## Storage
 
-| Spec | Value |
-|---|---|
-| Motor | 1200 W |
-| Blade mount | Tool-free |
+Put the saw and its blades back in the case and the case back under the workbench.
+
+![Reciprocating saw case stored under the workbench](../img/woodworking/reciprocating-saw-location.jpg){ width="360" }

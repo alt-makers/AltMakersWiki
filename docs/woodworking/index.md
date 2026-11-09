@@ -51,28 +51,28 @@ Every tool page shows one of these levels near the top.
     **[Holzmann Belt / Disc Sander](belt-disc-sander.md)**<br>
     Shaping and sanding edges · *Induction*
 
--   [![VEVOR Bench Grinder](../img/woodworking/bench-grinder-card.jpg)](bench-grinder.md)
-
-    **[Polishing / Bench Grinder](bench-grinder.md)**<br>
-    Sharpening, deburring, polishing · *Induction*
-
 </div>
 
 ## Hand-held power tools
 
 <div class="grid cards tool-cards" markdown>
 
--   [![Makita Track Saw](../img/woodworking/no-photo-card.svg)](track-saw.md)
+-   [![Makita Track Saw](../img/woodworking/track-saw-card.jpg)](track-saw.md)
 
     **[Makita Track Saw](track-saw.md)**<br>
     Breaking down sheet goods · *Sign-off required*
+
+-   [![Makita Aluminium Track Saw](../img/woodworking/aluminium-saw-card.jpg)](aluminium-saw.md)
+
+    **[Makita Aluminium Track Saw](aluminium-saw.md)**<br>
+    Straight cuts in aluminium panels · *Sign-off required*
 
 -   [![Black & Decker Circular Saw](../img/woodworking/circular-saw-card.jpg)](circular-saw.md)
 
     **[Circular Saw](circular-saw.md)**<br>
     Rough cuts in boards and sheets · *Sign-off required*
 
--   [![Makita Reciprocating Saw](../img/woodworking/no-photo-card.svg)](reciprocating-saw.md)
+-   [![Makita Reciprocating Saw](../img/woodworking/reciprocating-saw-card.jpg)](reciprocating-saw.md)
 
     **[Makita Reciprocating Saw](reciprocating-saw.md)**<br>
     Demolition and rough cuts · *Induction*
@@ -102,11 +102,31 @@ Every tool page shows one of these levels near the top.
     **[Drills & Drivers](drills-drivers.md)**<br>
     Stanley hammer drill and impact driver, Lux drill · *Open*
 
+-   [![Makita Biscuit Joiner](../img/woodworking/biscuit-joiner-card.jpg)](biscuit-joiner.md)
+
+    **[Makita Biscuit Joiner](biscuit-joiner.md)**<br>
+    Edge joints and alignment · *Induction*
+
+-   [![VEVOR Bench Grinder](../img/woodworking/bench-grinder-card.jpg)](bench-grinder.md)
+
+    **[Polishing / Bench Grinder](bench-grinder.md)**<br>
+    Sharpening, deburring, polishing · *Induction*
+
+-   [![Makita Shop Vac](../img/woodworking/shop-vac-card.jpg)](shop-vac.md)
+
+    **[Makita Shop Vac](shop-vac.md)**<br>
+    Dust extraction and cleanup · *Open*
+
 </div>
 
 ## Hand tools
 
 <div class="grid cards tool-cards" markdown>
+
+-   [![Hand tool wall](../img/woodworking/hand-tool-wall-card.jpg)](hand-tool-wall.md)
+
+    **[Hand Tool Wall](hand-tool-wall.md)**<br>
+    Chisels, screwdrivers, squares, hammers and more · *Open*
 
 -   [![Japanese pull saws](../img/woodworking/japanese-saws-card.jpg)](japanese-saws.md)
 

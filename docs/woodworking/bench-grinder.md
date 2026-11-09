@@ -6,6 +6,7 @@
 |---|---|
 | **Access** | Induction |
 | **PPE** | Safety glasses (face shield recommended). No gloves. |
+| **Where** | Stored on the wall shelf. It isn't bolted down: clamp it to a bench wherever you need it. |
 | **Use it for** | Deburring and touching up metal parts, polishing, small detail work with the flexible shaft |
 
 ## Safety
@@ -23,10 +24,13 @@
 
 - Induction by a shop lead before your first use.
 - Report any wheel that's chipped, cracked or wobbles.
-- Use it in a spot cleared of sawdust, not inside the wood area's dust.
+- **Clamp it to the bench** before you switch it on. An unclamped grinder walks and can tip over while running.
+- Set it up in a spot cleared of sawdust, away from the wood area's dust.
+- Unclamp it and put it back on its shelf when you're done.
 
 ## How to use
 
+1. Clamp the grinder firmly to a bench, away from sawdust.
 1. Check the wheels for cracks and that the eye shields are in place.
 2. Stand to the side and switch on. Wait until it runs smoothly.
 3. Hold the work lightly against the front of the wheel and keep it moving.

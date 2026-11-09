@@ -1,12 +1,13 @@
 # Makita Track Saw (SP6000)
 
-!!! note "Photo coming soon"
+![Makita SP6000 track saw on its guide rail](../img/woodworking/track-saw.jpg){ width="360" }
 
 | | |
 |---|---|
 | **Access** | Sign-off required |
 | **PPE** | Safety glasses, hearing protection, dust mask for MDF. No gloves. |
 | **Use it for** | Cutting full plywood and MDF sheets into manageable pieces, perfectly straight cuts on long panels |
+| **Where** | In its Makita case under the band saw bench. Guide rails: _[confirm location]_ |
 | **Product page** | [Makita SP6000](https://www.bueromarkt-ag.de/tauchsaege_makita_sp6000_handkreissaege,p-sp6000.html) |
 
 ## Safety
@@ -22,6 +23,7 @@
 - Only after sign-off by a shop lead.
 - Wood-based materials only.
 - Connect it to the dust extractor whenever possible.
+- Use the [aluminium track saw](aluminium-saw.md) for aluminium. This saw is for wood only.
 - Keep the tracks flat and don't stand on them. A bent track can't cut straight.
 
 ## How to use
@@ -46,3 +48,10 @@
 | Bevel | -1° to 48° |
 | Speed | 2200–6400 rpm, adjustable |
 | Motor | 1300 W, soft start |
+
+## Storage
+
+Put the saw back in its Makita case and the case back under the band saw bench.
+
+![Track saw in its Makita case](../img/woodworking/track-saw-case.jpg){ width="300" }
+![Track saw case under the band saw bench](../img/woodworking/track-saw-location.jpg){ width="300" }
