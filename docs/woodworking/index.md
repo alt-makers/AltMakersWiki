@@ -51,6 +51,11 @@ Every tool page shows one of these levels near the top.
     **[Holzmann Belt / Disc Sander](belt-disc-sander.md)**<br>
     Shaping and sanding edges · *Induction*
 
+-   [![VEVOR Bench Grinder](../img/woodworking/bench-grinder-card.jpg)](bench-grinder.md)
+
+    **[Polishing / Bench Grinder](bench-grinder.md)**<br>
+    Sharpening, deburring, polishing · *Induction*
+
 </div>
 
 ## Hand-held power tools
@@ -106,11 +111,6 @@ Every tool page shows one of these levels near the top.
 
     **[Makita Biscuit Joiner](biscuit-joiner.md)**<br>
     Edge joints and alignment · *Induction*
-
--   [![VEVOR Bench Grinder](../img/woodworking/bench-grinder-card.jpg)](bench-grinder.md)
-
-    **[Polishing / Bench Grinder](bench-grinder.md)**<br>
-    Sharpening, deburring, polishing · *Induction*
 
 -   [![Makita Shop Vac](../img/woodworking/shop-vac-card.jpg)](shop-vac.md)
 
