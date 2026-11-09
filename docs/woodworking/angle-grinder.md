@@ -4,7 +4,7 @@
 
 | | |
 |---|---|
-| **Access** | Sign-off required |
+| **Access** | Woodworking 101 Required |
 | **PPE** | Safety glasses **and** face shield, hearing protection, work gloves, long sleeves (no synthetic fabric) |
 | **Use it for** | Cutting metal (bolts, rebar, sheet), grinding welds and rust, removing paint with a wire or flap disc |
 
@@ -23,7 +23,7 @@
 
 ## Rules
 
-- Only after sign-off by a shop lead.
+- Only after completing Woodworking 101.
 - Only in the area designated for metal work, away from sawdust. _[confirm location]_
 - Unplug before changing discs. Use the pin wrench, not a hammer.
 - Never use a wood-carving or saw-tooth disc on this grinder.

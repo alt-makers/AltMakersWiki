@@ -4,7 +4,7 @@
 
 | | |
 |---|---|
-| **Access** | Sign-off required |
+| **Access** | Woodworking 101 Required |
 | **PPE** | Safety glasses, hearing protection. No gloves. |
 | **Use it for** | Ripping boards to width, crosscutting with the mitre gauge, cutting sheet goods to size |
 | **Product page** | [sawstop.eu](https://sawstop.eu/product/compact-table-saw/) |
@@ -23,7 +23,7 @@
 
 ## Rules
 
-- Only after sign-off by a shop lead.
+- Only after completing Woodworking 101.
 - **Riving knife always fitted.** Blade guard on for all through-cuts.
 - No dado stacks. The Compact model doesn't support them.
 - No metal, no stone, no plastics unless a shop lead approves the blade and material.

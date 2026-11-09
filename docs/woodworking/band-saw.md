@@ -4,7 +4,7 @@
 
 | | |
 |---|---|
-| **Access** | Sign-off required |
+| **Access** | Woodworking 101 Required |
 | **PPE** | Safety glasses, hearing protection. No gloves. |
 | **Use it for** | Curved cuts, cutting thick stock, resawing boards into thinner ones |
 | **Product page** | [metabo.com](https://www.metabo.com/com/en/tools/sawing/band-saws/bas-261-precision-band-saw/619008000) |
@@ -21,7 +21,7 @@
 
 ## Rules
 
-- Only after sign-off by a shop lead.
+- Only after completing Woodworking 101.
 - Wood only, unless a shop lead fits a blade for another material.
 - Don't change blades or tension yourself until you've been shown how.
 - Release the blade tension at the end of the day, if that's how you were trained. _[confirm shop policy]_

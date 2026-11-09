@@ -4,7 +4,7 @@
 
 | | |
 |---|---|
-| **Access** | Sign-off required |
+| **Access** | Woodworking 101 Required |
 | **PPE** | Safety glasses, hearing protection, dust mask for MDF. No gloves. |
 | **Use it for** | Cutting full plywood and MDF sheets into manageable pieces, perfectly straight cuts on long panels |
 | **Where** | In its Makita case under the band saw bench. Guide rails: _[confirm location]_ |
@@ -20,7 +20,7 @@
 
 ## Rules
 
-- Only after sign-off by a shop lead.
+- Only after completing Woodworking 101.
 - Wood-based materials only.
 - Connect it to the dust extractor whenever possible.
 - Use the [aluminium track saw](aluminium-saw.md) for aluminium. This saw is for wood only.

@@ -4,7 +4,7 @@
 
 | | |
 |---|---|
-| **Access** | Sign-off required |
+| **Access** | Woodworking 101 Required |
 | **PPE** | Safety glasses, hearing protection, dust mask. No gloves. |
 | **Use it for** | Rounding over and chamfering edges, flush-trimming veneer and edging, small profiles and hinge recesses |
 
@@ -20,7 +20,7 @@
 
 ## Rules
 
-- Only after sign-off by a shop lead.
+- Only after completing Woodworking 101.
 - Unplug before changing bits.
 - Put the bits back in the holder on the wall when you're done.
 

@@ -4,7 +4,7 @@
 
 | | |
 |---|---|
-| **Access** | Sign-off required |
+| **Access** | Woodworking 101 Required |
 | **PPE** | Safety glasses, hearing protection, long sleeves. No gloves while cutting. |
 | **Use it for** | Straight cuts in aluminium sheet and aluminium composite panels (e.g. Dibond), on the same track as the [wood track saw](track-saw.md) |
 
@@ -20,7 +20,7 @@ This saw is for **aluminium only**. Wood goes on the [wood track saw](track-saw.
 
 ## Rules
 
-- Only after sign-off by a shop lead.
+- Only after completing Woodworking 101.
 - **Aluminium and aluminium composite panels only.** No steel, no stainless steel, no wood.
 - Leave the aluminium blade in this saw. Don't swap blades between the two track saws.
 - Clean the chips out of the saw and off the track when you're done. Aluminium chips scratch the next person's workpiece.

@@ -4,7 +4,7 @@
 
 | | |
 |---|---|
-| **Access** | Induction |
+| **Access** | Woodworking 101 Required |
 | **PPE** | Safety glasses |
 | **Use it for** | Fine curves, small parts, inside cutouts (fretwork) in thin wood, plywood and acrylic |
 
@@ -17,7 +17,7 @@
 
 ## Rules
 
-- Induction by a shop lead before your first use.
+- Only after completing Woodworking 101.
 - Thin material only: up to about 40 mm of softwood, less for hardwood. _[confirm with saw's manual]_
 - Don't leave broken blades in the machine. Replace them, and report it if there are no spares.
 

@@ -4,7 +4,7 @@
 
 | | |
 |---|---|
-| **Access** | Induction |
+| **Access** | Woodworking 101 Required |
 | **PPE** | Safety glasses, hearing protection, dust mask. No gloves. |
 | **Use it for** | Joining boards edge to edge (tabletops, panels), corner and T-joints in plywood and solid wood, keeping parts aligned during a glue-up |
 
@@ -19,7 +19,7 @@ The joiner cuts matching half-moon slots in both parts. You glue a flat wooden "
 
 ## Rules
 
-- Induction by a shop lead before your first use.
+- Only after completing Woodworking 101.
 - Wood and wood-based panels only.
 - Put the biscuits back in their box, sorted by size, and the joiner back in its case.
 - Connect the [shop vac](shop-vac.md) or the dust bag. Biscuit joiners throw a lot of chips.
