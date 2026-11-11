@@ -42,13 +42,40 @@ nav:
       - Unsafe Materials (EN): lasercutters-unsafe-materials-en.md
       - Nicht geeignete Materialien (DE): lasercutters-unsafe-materials-de.md
   - 3D Printers: 3d-printers.md
-  - Woodworking & Carpentry: woodworking.md
+  - Woodworking & Carpentry:
+      - Overview: woodworking/index.md
+      - Stationary Machines:
+          - SawStop Table Saw: woodworking/table-saw.md
+          - Planer / Thicknesser: woodworking/planer-thicknesser.md
+          - Mitre Saw: woodworking/mitre-saw.md
+          - Band Saw: woodworking/band-saw.md
+          - Scroll Saw: woodworking/scroll-saw.md
+          - Drill Press: woodworking/drill-press.md
+          - Belt / Disc Sander: woodworking/belt-disc-sander.md
+          - Polishing / Bench Grinder: woodworking/bench-grinder.md
+      - Hand-held Power Tools:
+          - Track Saw: woodworking/track-saw.md
+          - Aluminium Track Saw: woodworking/aluminium-saw.md
+          - Circular Saw: woodworking/circular-saw.md
+          - Reciprocating Saw: woodworking/reciprocating-saw.md
+          - Plunge Router: woodworking/plunge-router.md
+          - Edge Router: woodworking/edge-router.md
+          - Random Orbit Sander: woodworking/random-orbit-sander.md
+          - Angle Grinder: woodworking/angle-grinder.md
+          - Drills & Drivers: woodworking/drills-drivers.md
+          - Biscuit Joiner: woodworking/biscuit-joiner.md
+          - Shop Vac: woodworking/shop-vac.md
+      - Hand Tools:
+          - Hand Tool Wall: woodworking/hand-tool-wall.md
+          - Japanese Saws: woodworking/japanese-saws.md
+          - Clamps: woodworking/clamps.md
   - Sewing: sewing.md
   - Electronics: electronics.md
 
 markdown_extensions:
   - admonition
   - attr_list
+  - md_in_html
   - tables
   - footnotes
   - pymdownx.details
