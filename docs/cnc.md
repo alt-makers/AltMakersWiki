@@ -275,7 +275,7 @@ _[Approved materials list — what's safe to cut on the CNC, thicknesses support
 | | | |
 
 !!! warning "Prohibited materials"
-    _[List anything never allowed — e.g. PVC, unknown/reclaimed material without ID, etc.]_
+    _[List anything never allowed — e.g. PVC, ABS, unknown/reclaimed material without ID, etc.]_
 
 ## Tool Settings
 
